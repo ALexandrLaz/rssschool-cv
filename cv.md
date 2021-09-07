@@ -6,8 +6,8 @@
 
 * **Phone:** +375 29 569-07-63,
 * **Email:** lazarforcode@gmail.com,
-* **telegram:** https://web.telegram.org/#/im?p=@AlehamdroLaz,
-* **GitHub:** https://github.com/ALexandrLaz.
+* **telegram:** [https://web.telegram.org/#/im?p=@AlehamdroLaz](https://web.telegram.org/#/im?p=@AlehamdroLaz),
+* **GitHub:** [https://github.com/ALexandrLaz](https://github.com/ALexandrLaz).
 
 ## About Me
 
@@ -15,12 +15,12 @@ At the moment, my goal is to change the field of activity, I have been at my cur
 
 ## My skills
 
-At the moment I do not have much experience and skills in commercial programming, knowledge of frameworks and databases. However, I will fix this shortcoming soon.
-* **But now i have skills in:**
-* HTML,
-* CSS,
-* Git,
-* JavaScript.
+At the moment I do not have much experience and skills in commercial programming, knowledge of frameworks and databases. However, I will fix this shortcoming soon. 
+**But now i have skills in:**
+    * HTML,
+    * CSS,
+    * Git,
+    * JavaScript.
 
 ## Some code
 
