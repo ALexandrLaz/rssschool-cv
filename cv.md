@@ -15,7 +15,7 @@ At the moment, my goal is to change the field of activity, I have been at my cur
 
 ## My skills
 
-At the moment I do not have much experience and skills in commercial programming, knowledge of frameworks and databases. However, I will fix this shortcoming soon. 
+At the moment I do not have much experience and skills in commercial programming, knowledge of frameworks and databases. However, I will fix this shortcoming soon. \
 **But now i have skills in:**
     * HTML,
     * CSS,
